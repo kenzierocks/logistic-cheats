@@ -1,0 +1,11 @@
+{
+  	"name": "logical-cheats",
+  	"version": "0.1.0",
+  	"title": "Logical Cheats",
+  	"author": "kenzierocks",
+  	"contact": "ket1999@gmail.com",
+  	"homepage": "https://mods.factorio.com/kenzierocks/logical-cheats",
+	"description": "Adds a chest that uses the logistic network to set its content.",
+    "factorio_version": "0.14",
+    "dependencies": ["base >= 0.14.0"]
+}
